@@ -1,5 +1,7 @@
 A Test Document to 
 practice git
 At Capgemini
+In the morning session
+from 9 am
 Training class
 with Girish Sir
